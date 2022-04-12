@@ -1,0 +1,68 @@
+.linkable-span {
+  color: #2196F3;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.custom-divider {
+  width: 100%;
+  height: 1px;
+  background-color: #EEEEEE;
+}
+
+.user-panel-plans-card-title {
+  color: #000000;
+  font-size: 1.25rem;
+  font-weight: 500;
+  letter-spacing: 0.0125em;
+  line-height: 2rem;
+  word-break: break-all;
+}
+.user-panel-plans-card {
+  height: 100%;
+}
+.user-panel-plans-card-features {
+  list-style: none;
+  padding-left: 0 !important;
+  color: #B645EE
+}
+.user-panel-plans-card-profiles-count-autocomplete .v-input__control div.v-input__slot,
+.user-panel-plans-card-profiles-count-autocomplete .v-input__control div.v-input__slot input {
+  cursor: pointer !important;
+}
+
+.anty-main-tabs .v-tab {
+  justify-content: start !important;
+}
+
+.anty-user-panel-affiliate-main-table .v-data-footer__select,
+.anty-user-panel-affiliate-main-table .v-data-footer__pagination {
+  display: none !important;
+}
+.anty-user-panel-affiliate-main-table .v-data-footer__icons-before {
+  margin-left: auto !important;
+}
+.capitalist-info {
+    padding: 16px 24px 16px 24px;
+    background: #FFFFFF;
+    border: 1px solid #CDCDCD;
+    box-sizing: border-box;
+    border-radius: 4px;
+    text-align: left;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+.card-info {
+    background: #FFFFFF;
+    border: 1px solid #E38484;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 16px 24px 16px 24px;
+    margin-bottom: 30px;
+    margin-right: 7px;
+    margin-left: 7px;
+    text-align: left;
+}
+.v-btn-toggle--dense > .v-btn.v-btn {
+    padding: 0 18px !important;
+}

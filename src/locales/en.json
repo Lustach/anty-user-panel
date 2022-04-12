@@ -1,0 +1,155 @@
+{
+	"affiliateProgram": {
+		"affiliateCondition": "You will get 15% of all payments of your referred users lifetime.<br>If you have сollaboration offer or need your own promo code, contact the support<br>telegram @dolphin_support_bot.<br>To withdraw referral funds, contact support. ",
+		"affiliateProgram": "Affiliate program",
+		"balance": "Balance",
+		"mainTable": {
+			"amount": "Amount",
+			"date": "Date",
+			"transactions": "Transactions",
+			"user": "User"
+		}
+	},
+	"common": {
+		"account": "Account",
+		"back": "Back",
+		"browserProfiles": "Browser profiles",
+		"cancel": "Cancel",
+		"close": "Close",
+		"copied": "Copied",
+		"copy": "Copy",
+		"download": "Download",
+		"from": "From",
+		"pay": "Pay",
+		"payNow": "Pay now",
+		"personalArea": "Personal area",
+		"success": "Success",
+		"successfulPayment": "Payment was successful.Your subscription will be upgraded soon. Use refresh button to update subscription status.",
+		"successfulUpgradeAlert": "Transaction was successful.Your subscription will be upgraded soon. Use refresh button to update subscription status.",
+		"users": "Users",
+		"renew": "Renew",
+		"upgrade": "Upgrade",
+		"payAndGo": "Pay and go",
+		"confirm": "Confirm"
+
+	},
+	"home": {
+		"backToWebsite": "Back to website",
+		"comingSoon": "We are actively developing this panel now",
+		"logout": "Log out",
+		"referalLink": "Your referal link",
+		"referalProgram": "Referal Program"
+	},
+	"overview": {
+		"accountEmail": "Account e-mail",
+		"billing": "Billing",
+		"cancelSubscription": "Cancel subscription",
+		"expires": "Expires",
+		"renew": "Renew ",
+		"futureChargesWillBeBilled": "future charges will be billed to the card",
+		"goodbyesAreHard": "Goodbyes are hard",
+		"overview": "Overview",
+		"password": "Password",
+		"plan": "Plan",
+		"unsubscribe": "unsubscribe",
+		"youWillStayOnBasePlan": "You will stay on {plan} plan until the end of billing cycle.",
+		"yourPlanWillNotRenewOn": "your plan will not renew on",
+		"yourPlanWillRenewOn": "your plan will renew on"
+	},
+	"plans": {
+		"abilityToAddUsersToATeam": "Ability to add users to a team",
+		"abilityToBuyAdditionalProfiles": "Ability to buy additional profiles",
+		"additionalProfiles": "Add. profiles",
+		"additionalUsers": "Additional users",
+		"availableToYou": "{0} days available to you",
+		"amountDescription": {
+			"paymentSystemFee": "Payment system fee",
+			"planBasePrice": "Plan base price",
+			"priceForAdditionalProfiles": "Price for additional profiles",
+			"priceForAdditionalUsers": "Price for additional users",
+			"balance": "Discount for your unused plan"
+		},
+        "unsubscribeTitle": "Go to <span class='plan_text'>Free</span> plan",
+        "unsubscribeDesc": "If you switch to the Free plan, your paid plan will be canceled",
+        "buttonGo" : "switch to free",
+        "heading" : "Your current plan is <span class='plan_text'>{0}</span>, select the plan you want to upgrade:",
+		"base": {
+			"base": "Base",
+			"description": "Collaboration for a small team"
+		},
+		"beta": {
+			"beta": "Beta"
+		},
+		"browserProfiles": "Browser profiles",
+		"card": "Card",
+		"coinbaseWarning": "Warning! Coinbase supports transactions only in ERC20 chain.",
+		"crypto": "Crypto",
+		"capitalist": "Capitalist",
+		"dialogManualPaymentInfo": {
+			"description": "<p>We accept Capitalist payments in manual mode now.</p> <p>Send {sum} USD to account <code>U12696884</code> <strong>(specify your e-mail in comment)</strong>.</p><p>Then contact to <a target='_blank' href='https://t.me/dolphin_support_bot'>support</a> with screenshot of payment and your e-mail.</p>"
+		},
+		"dialogManualPaymentInfoUSDT": {
+			"description": "<p>We accept USDT payments in manual mode now.</p> <p>Send {sum} USDT to address <code>TTPhAbhgMKzz8egHRX1mxRFhyEH5eUt2sF</code>. </p><p>Then contact to <a target='_blank' href='https://t.me/dolphin_support_bot'>support</a> with transaction id and your e-mail.</p>"
+		},
+        "capitalistInfo" : " To pay via <a\n          target=\"_blank\"\n       href=\"https://capitalist.net/\"\n              > Capitalist</a>,\n              contact support via the widget on the site or via <a\n                href=\"https://t.me/dolphin_support_bot\"\n                target=\"_blank\"\n              >  Telegram</a>.",
+      "usdt": "USDT trc20",
+      "usdtInfo": "To pay  USDT trc20, contact support via the widget on the site or via <a target=\"_blank\" href=\"https://t.me/dolphin_support_bot\">Telegram.</a>",
+      "cardInfo" : "We are experiencing problems accepting payments through bank cards. If you're having trouble making a payment, try another payment method or contact support via the widget on the site or via\n            <a\n              target=\"_blank\"\n              href=\"https://t.me/dolphin_support_bot\"\n            >Telegram.</a>",
+      "discount": "Discount",
+		"enterprise": {
+			"description": "For a large team",
+			"enterprise": "Enterprise"
+		},
+		"errors": {
+			"ECANNOTADDFREE": "You can not add users at free plan",
+			"ECANNOTUPGRADE": "Your plan cannot be upgraded in this panel. Please contact support for that.",
+			"ETOOLOWPLAN": "You have more users or browser profiles then you are paying for",
+			"E_INVALID_PROMO": "Invalid promocode",
+			"E_VALIDATION": "Invalid data",
+			"somethingWentWrong": "Something went wrong. Please contact support."
+		},
+		"ewallet": "eWallet",
+		"forAdditionalTeamMember": "For additional team member",
+		"free": {
+			"description": "Free with all features",
+			"forEvery10AdditionalProfiles": "For every 10 add. profiles (max 50)",
+			"free": "Free",
+			"saveUpBrowserProfilesFor": "Save up browser profiles for"
+		},
+		"oneUserIncluded": "One user included for free on every plan. So if you choose N additional users you'll get license with N+1 users total.",
+		"paymentFor": "Payment for plan anty.dolphin.ru.com",
+		"paypal": "PayPal",
+		"perMonth": "Per month",
+		"piece": "pcs.",
+		"profilesCount": "Profiles count",
+		"profilesMultiple": "Profiles | Profile | Profiles | Profiles",
+		"prolongMonths": {
+			"1month": "1 month",
+			"2months": "2 months",
+			"months": "No months | Month | Months | Months",
+			"prolongMonths": "Prolong months"
+		},
+		"promocode": "Promocode",
+		"saveUpTo": "Save up to",
+		"team": {
+			"description": "Profitable for a small team",
+			"team": "Team"
+		},
+		"teamMembers": "Team members",
+		"trial": {
+			"trial": "Trial"
+		},
+		"try": "Try",
+		"choosePlan": "Choose plan",
+		"youCanCancelAnyTimeBeforeThisDate": "You can cancel subscription at any time before this date",
+		"youHaveSelected": "You've selected the",
+		"youHaveSelectedPlan": "plan",
+		"youProlongPlan": "You prolong plan",
+		"youWillBeCharged": "You'll be charged",
+		"yourSubscriptionWillAutomaticallyRenew": "Your subscription will automatically renew on"
+	},
+	"ref": {
+		"info": "You will get 15% lifetime of all purchases by the users you bring.<br><br>Soon here will be a dashboard with full statistics of your referrals. We already collecting statistics. Therefore, you can use ref link right now.",
+		"registeredUsers": "Registered users"
+	}
+}

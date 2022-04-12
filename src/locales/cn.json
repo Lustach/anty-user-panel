@@ -1,0 +1,135 @@
+{
+  "affiliateProgram": {
+    "affiliateCondition": "您将永久获得被推荐用户所有付款的 15%。如果您有合作意见或需要自己的促销优惠码，请联系支持人员电报@dolphin_support_bot。<br>要提取资金，请联系支持人员",
+    "affiliateProgram": "联盟计划",
+    "balance": "余额",
+    "mainTable": {
+      "amount": "总额",
+      "date": "日期",
+      "transactions": "交易记录",
+      "user": "用户"
+    }
+  },
+  "common": {
+    "account": "个人账号",
+    "back": "返回",
+    "browserProfiles": "浏览器环境总数",
+    "cancel": "取消",
+    "close": "关闭",
+    "copied": "已復制",
+    "copy": "复制",
+    "download": "下载",
+    "from": "从",
+    "pay": "支付",
+    "payNow": "马上付款",
+    "personalArea": "个人账号",
+    "success": "成功",
+    "successfulPayment": "支付成功",
+    "users": "用户总数",
+    "renew": "更新",
+    "upgrade": "升级",
+    "payAndGo": "交付和继续",
+    "confirm": "确认"
+  },
+  "home": {
+    "backToWebsite": "返回网站",
+    "comingSoon": "我们正在积极开发这种仪表板",
+    "logout": "退出登陆",
+    "referalLink": "你的联盟链接",
+    "referalProgram": "联盟计划"
+  },
+  "overview": {
+    "accountEmail": "电子邮件",
+    "billing": "套餐",
+    "cancelSubscription": "取消套餐",
+    "expires": "到期日",
+    "futureChargesWillBeBilled": "将来付款日期",
+    "goodbyesAreHard": "",
+    "overview": "综述",
+    "password": "密码",
+    "plan": "套餐",
+    "unsubscribe": "取消套餐",
+    "youWillStayOnBasePlan": "你将继续用基本的套餐",
+    "yourPlanWillNotRenewOn": "你的套餐不会继续从",
+    "yourPlanWillRenewOn": "你的套餐再继续日期为"
+  },
+  "plans": {
+    "abilityToAddUsersToATeam": "",
+    "abilityToBuyAdditionalProfiles": "",
+    "additionalProfiles": "",
+    "additionalUsers": "",
+    "availableToYou": " {0} ",
+    "amountDescription": {
+      "paymentSystemFee": "",
+      "planBasePrice": "",
+      "priceForAdditionalProfiles": "",
+      "priceForAdditionalUsers": "",
+      "balance": ""
+    },
+    "base": {
+      "base": "",
+      "description": ""
+    },
+    "beta": {
+      "beta": ""
+    },
+    "browserProfiles": "",
+    "card": "",
+    "coinbaseWarning": "",
+    "crypto": "",
+    "discount": "优惠",
+    "enterprise": {
+      "description": "",
+      "enterprise": ""
+    },
+    "errors": {
+      "ECANNOTADDFREE": "",
+      "ECANNOTUPGRADE": "",
+      "ETOOLOWPLAN": "",
+      "E_INVALID_PROMO": "",
+      "E_VALIDATION": "",
+      "somethingWentWrong": ""
+    },
+    "ewallet": "",
+    "forAdditionalTeamMember": "",
+    "free": {
+      "description": "",
+      "forEvery10AdditionalProfiles": "",
+      "free": "",
+      "saveUpBrowserProfilesFor": ""
+    },
+    "oneUserIncluded": "",
+    "paymentFor": "",
+    "paypal": "",
+    "perMonth": "",
+    "piece": "",
+    "profilesCount": "",
+    "profilesMultiple": "",
+    "prolongMonths": {
+      "1month": "",
+      "2months": "",
+      "months": "",
+      "prolongMonths": ""
+    },
+    "promocode": "",
+    "saveUpTo": "",
+    "team": {
+      "description": "",
+      "team": ""
+    },
+    "teamMembers": "",
+    "trial": {
+      "trial": ""
+    },
+    "try": "试用",
+    "choosePlan": "选择套餐",
+    "youCanCancelAnyTimeBeforeThisDate": "您可以随时取消",
+    "youHaveSelected": "您已先择了",
+    "youWillBeCharged": "你将付款",
+    "yourSubscriptionWillAutomaticallyRenew": "您的套餐将自动的便新日期为"
+  },
+  "ref": {
+    "info": "您将永久获得被推荐用户所有付款的 15%<br><br>。 我们已经在收集统计数据。 您现在可以使用推荐链接。",
+    "registeredUsers": "注册的用户"
+  }
+}

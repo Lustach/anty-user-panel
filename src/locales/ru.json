@@ -1,0 +1,155 @@
+{
+	"affiliateProgram": {
+		"affiliateCondition": "Вы получите 15% от всех платежей приведенных вами пользователей пожизненно.<br>Если у вас есть предложение по сотрудничеству или вам нужен свой промокод, свяжитесь с саппортом<br>телеграмм @dolphin_support_bot.<br>Для вывода реферальных средств, свяжитесь с саппортом. ",
+		"affiliateProgram": "Партнерская программа",
+		"balance": "Баланс",
+		"mainTable": {
+			"amount": "Сумма",
+			"date": "Дата",
+			"transactions": "Транзакции",
+			"user": "Пользователь"
+		}
+	},
+	"common": {
+		"account": "Аккаунт",
+		"back": "Назад",
+		"browserProfiles": "Браузерные профили",
+		"cancel": "Отмена",
+		"close": "Закрыть",
+		"copied": "Скопировано",
+		"copy": "Скопировать",
+		"download": "Скачать",
+		"from": "Из",
+		"pay": "Оплатить",
+		"payNow": "Оплатить сейчас",
+		"personalArea": "Личный кабинет",
+		"success": "Успешно",
+		"successfulPayment": "Платеж прошел успешно. Ваша подписка будет обновлена в ближайшее время. Используйте кнопку обновления, чтобы увидеть актуальный статус подписки.",
+		"successfulUpgradeAlert": "Операция прошла успешно. Ваша подписка будет обновлена в ближайшее время. Используйте кнопку обновления, чтобы увидеть актуальный статус подписки.",
+		"users": "Пользователи",
+		"renew": "Продлить",
+		"choosePlan": "Choose plan",
+		"upgrade": "Обновить",
+		"payAndGo": "Оплатить",
+		"confirm": "Подтвердить"
+
+	},
+	"home": {
+		"backToWebsite": "Назад на сайт",
+		"comingSoon": "Мы сейчас активно разрабатываем эту панель",
+		"logout": "Выйти",
+		"referalLink": "Твоя реферальная ссылка",
+		"referalProgram": "Реферальная программа"
+	},
+	"overview": {
+		"accountEmail": "E-mail аккаунта",
+		"billing": "Платежи",
+		"cancelSubscription": "Отменить подписку",
+		"expires": "Действителен до",
+		"futureChargesWillBeBilled": "следующий платеж будет списан с карты",
+		"goodbyesAreHard": "Прощаться всегда тяжело",
+		"overview": "Обзор",
+		"password": "Пароль",
+		"plan": "План",
+		"unsubscribe": "отписаться",
+		"youWillStayOnBasePlan": "Вы останетесь на тарифе {plan} до окончания текущей оплаты",
+		"yourPlanWillNotRenewOn": "ваш тариф не будет продлен",
+		"yourPlanWillRenewOn": "ваш тариф будет продлен"
+	},
+	"plans": {
+		"abilityToAddUsersToATeam": "Возможность добавлять пользователей в команду",
+		"abilityToBuyAdditionalProfiles": "Возможность докупать дополнительные профили",
+		"additionalProfiles": "Доп. профили",
+		"additionalUsers": "Доп. пользователи",
+		"availableToYou": "вам доступно {0} дней",
+		"amountDescription": {
+			"paymentSystemFee": "Комиссия платежной системы",
+			"planBasePrice": "Базовая стоимость тарифа",
+			"priceForAdditionalProfiles": "Стоимость доп. профилей",
+			"priceForAdditionalUsers": "Стоимость доп. юзеров",
+            "balance": "Остаток за текущий тариф"
+		},
+        "unsubscribeTitle": "Перейти на <span class='plan_text'>Free</span> тариф",
+        "unsubscribeDesc": "При переходе на тариф Free ваш текущий платный тариф аннулируется.",
+        "buttonGo" : "перейти",
+        "heading" : "Ваш текущий тариф  <span class='plan_text'>{0}</span>, выбирете тариф на который вы хотите перейти:",
+		"base": {
+			"base": "Base",
+			"description": "Совместная работа для небольшой команды"
+		},
+		"beta": {
+			"beta": "Beta"
+		},
+		"browserProfiles": "Профилей браузера",
+		"card": "Карта",
+		"coinbaseWarning": "Внимание! Coinbase принимает оплаты только  в сети ERC20.",
+		"crypto": "Крипта",
+      "capitalist": "Capitalist",
+		"dialogManualPaymentInfo": {
+			"description": "<p>На данный момент мы принимаем платежи Capitalist в ручном режиме.</p> <p>Переведите {sum} USD на счёт <code>U12696884</code> <strong>(в комментарии укажите свою почту)</strong>.</p> <p>Затем обратитесь в <a target='_blank' href='https://t.me/dolphin_support_bot'>службу поддержки</a> со скриншотом оплаты и вашей почтой.</p>"
+		},
+		"dialogManualPaymentInfoUSDT": {
+			"description": "<p>На данный момент мы принимаем платежи USDT в ручном режиме.</p> <p>Переведите {sum} USDT на адрес <code>TTPhAbhgMKzz8egHRX1mxRFhyEH5eUt2sF</code>.</p> <p>Затем обратитесь в <a target='_blank' href='https://t.me/dolphin_support_bot'>службу поддержки</a> с id транзакции и почтой.</p>"
+		},
+      "capitalistInfo" : " Для оплаты через <a  target=\"_blank\"\n href=\"https://capitalist.net/\"> Capitalist</a> свяжитесь с поддержкой через виджет на сайте или через  <a\n                href=\"https://t.me/dolphin_support_bot\"\n                target=\"_blank\"\n              >\n                Телеграмм\n              </a>.",
+      "usdt": "USDT trc20",
+      "usdtInfo": "        Для оплаты с помощью USDT trc20 свяжитесь с поддержкой через виджет на сайте или через\n              <a\n                target=\"_blank\"\n                href=\"https://t.me/dolphin_support_bot\"\n              >Телеграмм.</a>",
+      "cardInfo" : "   Мы испытываем проблемы с принятием платежей через банковские карты. Если у вас возникли проблемы с оплатой, попробуйте выбрать другой способ оплаты или свяжитесь с поддержкой через виджет на сайте или через\n              <a\n                target=\"_blank\"\n                href=\"https://t.me/dolphin_support_bot\"\n              > Телеграмм.</a>",
+      "discount": "Скидка",
+		"enterprise": {
+			"description": "Особые условия для большой команды",
+			"enterprise": "Enterprise"
+		},
+		"errors": {
+			"ECANNOTADDFREE": "Нельзя покупать доп. пользователей на бесплатном тарифе",
+			"ECANNOTUPGRADE": "На данный момент в панели нельзя повысить условия Вашего тарифа. Для повышения условий, пожалуйста, обратитесь в саппорт.",
+			"ETOOLOWPLAN": "На данный момент у вас больше пользователей или браузерных профилей, чем вы оплачиваете",
+			"E_INVALID_PROMO": "Неверный промокод",
+			"E_VALIDATION": "Неверные данные",
+			"somethingWentWrong": "Что-то пошло не так. Пожалуйста, свяжитесь с саппортом."
+		},
+		"ewallet": "Е-кошелек",
+		"forAdditionalTeamMember": "За дополнительного пользователя",
+		"free": {
+			"description": "Бесплатный тариф с полным набором подмен",
+			"forEvery10AdditionalProfiles": "За каждые 10 дополнительных профилей (максимум 50)",
+			"free": "Free",
+			"saveUpBrowserProfilesFor": "Сохранение профилей до"
+		},
+		"oneUserIncluded": "Один пользователь включен в каждый тариф. Поэтому если вы выберете N доп. пользователей, то получите в результате лицензию с N+1 пользователями.",
+		"paymentFor": "Оплата тарифа в anty.dolphin.ru.com",
+		"paypal": "PayPal",
+		"perMonth": "В месяц",
+		"piece": "шт.",
+		"profilesCount": "Количество профилей",
+		"profilesMultiple": "Профилей | Профиль | Профиля | Профилей",
+		"prolongMonths": {
+			"1month": "1 месяц",
+			"2months": "2 месяца",
+			"months": "Нет месяцев | Месяц | Месяца | Месяцев",
+			"prolongMonths": "Продлить"
+		},
+		"promocode": "Промокод",
+		"saveUpTo": "Сохранение до",
+		"team": {
+			"description": "Выгодный тариф для небольшой команды",
+			"team": "Team"
+		},
+		"teamMembers": "Команда",
+		"trial": {
+			"trial": "Trial"
+		},
+		"try": "Попробовать",
+		"choosePlan": "Выбрать тариф",
+		"youCanCancelAnyTimeBeforeThisDate": "Вы можете отменить подписку в любой момент",
+		"youHaveSelected": "Вы выбрали",
+        "youHaveSelectedPlan": "тариф",
+		"youProlongPlan": "Вы продлеваете план",
+		"youWillBeCharged": "К оплате",
+		"yourSubscriptionWillAutomaticallyRenew": "Ваша подписка будет автоматически продлена"
+	},
+	"ref": {
+		"info": "Ты будешь получать 15% lifetime отчисления от юзеров, которых ты привел.<br><br>Скоро здесь будет панель с твоей реферальной статистикой. Мы уже собираем данные. Таким образом, ты можешь использовать свою реферальную ссылку уже сейчас.",
+		"registeredUsers": "Зарегистрировано пользователей"
+	}
+}

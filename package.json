@@ -1,0 +1,79 @@
+{
+  "name": "anty-user-panel",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "test": "npx jest"
+  },
+  "dependencies": {
+    "@mdi/font": "5.9.55",
+    "amplitude-js": "^8.13.1",
+    "axios": "^0.21.1",
+    "core-js": "^3.6.5",
+    "js-cookie": "^3.0.1",
+    "moment": "^2.29.1",
+    "roboto-fontface": "*",
+    "vue": "^2.6.11",
+    "vue-i18n": "^8.24.5",
+    "vue-router": "^3.2.0",
+    "vuetify": "^2.4.0",
+    "vuex": "^3.4.0",
+    "vuex-map-fields": "^1.4.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-jest": "^24.4.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "jest": "^27.2.0",
+    "sass": "~1.32.0",
+    "sass-loader": "^10.0.0",
+    "taiko": "^1.2.7",
+    "vue-cli-plugin-vuetify": "~2.4.1",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.7.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true,
+      "jest/globals": true
+    },
+    "extends": [
+      "plugin:vue/recommended",
+      "eslint:recommended",
+      "plugin:jest/recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "plugins": [
+      "jest"
+    ],
+    "rules": {
+      "indent": [
+        "error",
+        2
+      ],
+      "jest/no-disabled-tests": "warn",
+      "jest/no-focused-tests": "error",
+      "jest/no-identical-title": "error",
+      "jest/prefer-to-have-length": "warn",
+      "jest/valid-expect": "error",
+      "jest/expect-expect": "off"
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
